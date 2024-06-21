@@ -1,0 +1,5 @@
+{
+    "model_parameters": {
+        "contamination": 0.1
+    }
+}

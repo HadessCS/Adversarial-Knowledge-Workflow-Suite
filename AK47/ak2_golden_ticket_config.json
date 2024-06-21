@@ -1,0 +1,7 @@
+{
+    "ticket_data": {
+        "username": "admin",
+        "domain": "example.com",
+        "krbtgt_hash": "aad3b435b51404eeaad3b435b51404ee"
+    }
+}
