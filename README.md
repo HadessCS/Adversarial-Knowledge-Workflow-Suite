@@ -1,5 +1,8 @@
 # Adversarial Knowledge Workflow Suite (AKWS)
 
+![alt text](akms.jpeg "Adversarial Knowledge Workflow Suite")
+
+
 ## Overview
 
 Adversarial Knowledge Workflow Suite (AKWS) is a comprehensive framework designed to provide both red and blue teams with a structured template for simulating cyber-attacks and defending against them using machine learning techniques. The suite consists of various modules, each targeting a specific aspect of cyber-security, from basic attacks like password spraying to advanced persistent threats like the Golden Ticket attack. The modules are named sequentially from AK1 to AK47, where each module addresses a distinct attack vector or defensive measure.
